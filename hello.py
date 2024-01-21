@@ -1,4 +1,6 @@
 def add(x, y):
     return x + y
 
-var=
+
+### Uncomment to test failure
+# var=
